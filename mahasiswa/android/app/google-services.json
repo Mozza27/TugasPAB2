@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "199224331826",
+    "firebase_url": "https://mahasiswa-f5627-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mahasiswa-f5627",
+    "storage_bucket": "mahasiswa-f5627.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199224331826:android:4af1fbbe1ae290c525762b",
+        "android_client_info": {
+          "package_name": "com.example.mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCrA2nOPYG0UqIheuHKvfDGFN36GAmBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199224331826:android:a2758d684440ffe925762b",
+        "android_client_info": {
+          "package_name": "com.mahasiswa.dataapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCrA2nOPYG0UqIheuHKvfDGFN36GAmBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
